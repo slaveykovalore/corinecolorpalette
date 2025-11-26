@@ -25,9 +25,7 @@ The extracted palette is then presented visually in a PDF document for easy use 
 The PDF includes:
 
 - Title
-
 - Input image name
-
 - Selected color swatches
 
 ## 🔗 Source
